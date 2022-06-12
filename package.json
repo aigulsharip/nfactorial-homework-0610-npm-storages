@@ -6,10 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pushToGit2": "git status && git log ",
     "pushToGit": "git add . && git commit -m 'some commit text' && git push"
-
-
   },
   "repository": {
     "type": "git",
